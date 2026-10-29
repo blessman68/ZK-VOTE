@@ -37,7 +37,7 @@ resolver = "2"
 [workspace.dependencies]
 # Soroban SDK with BN254 + Poseidon support (Protocol 25+)
 soroban-sdk = "25.3.0"
-num-bigint = "0.4"
+num-bigint = "0.5"
 
 # #727 — REPRODUCIBLE BUILDS
 # All flags below must stay identical to the values used inside
